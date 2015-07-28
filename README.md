@@ -1,2 +1,2 @@
 # eSc-blocks
-new blocks for e-Sc
+new blocks for e-Sc, using eSc as intermediate storage
